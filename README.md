@@ -3,8 +3,8 @@ This is a final project for CS50's Introduction to Computer Science. SpeakTimer 
 
 ### Examples of use
 ![SpeakTimer](/images/timer.png)
-🔥[Live Demo](https://hrmtk-speaktimer.herokuapp.com/)🔥 - The app has been deployed to Heroku.
-[Video Demo](https://youtu.be/ZF2j7I3JAWc)
+* 🔥[Live Demo](https://hrmtk-speaktimer.herokuapp.com/)🔥 - The app has been deployed to Heroku.
+* [Video Demo](https://youtu.be/ZF2j7I3JAWc)
 
 ### Table of contents
 * [Running the application](#running-the-application)
